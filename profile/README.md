@@ -8,7 +8,7 @@ Hello! I'm Tinh, a dedicated and experienced software engineer specializing in c
 
 - ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **Cloud Infrastructure**: AWS, Azure, Google Cloud
 - ![Terraform](https://img.icons8.com/color/48/000000/terraform.png) **Infrastructure as Code**: Terraform, CloudFormation
-- ![CI/CD](https://img.icons8.com/color/48/000000/continuous-integration.png) **CI/CD Pipelines**: Jenkins, GitHub Actions, GitLab CI, AWS CodePipeline
+- ![CI/CD](https://img.icons8.com/?size=100&id=knYmvA4hR0il&format=png&color=000000) **CI/CD Pipelines**: Jenkins, GitHub Actions, GitLab CI, AWS CodePipeline
 - ![Ansible](https://img.icons8.com/color/48/000000/ansible.png) **Configuration Management**: Ansible, Chef, Puppet
 - ![Docker](https://img.icons8.com/color/48/000000/docker.png) **Containerization**: Docker, Kubernetes
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Scripting and Automation**: Python, Bash, PowerShell
@@ -17,7 +17,7 @@ Hello! I'm Tinh, a dedicated and experienced software engineer specializing in c
 ## Services Offered
 
 - ![Cloud](https://img.icons8.com/color/48/000000/cloud.png) **Cloud Infrastructure Setup**: Design and implement scalable and secure cloud infrastructure.
-- ![CI/CD](https://img.icons8.com/color/48/000000/continuous-integration.png) **CI/CD Pipeline Development**: Automate your build, test, and deployment processes.
+- ![CI/CD](https://img.icons8.com/?size=100&id=knYmvA4hR0il&format=png&color=000000) **CI/CD Pipeline Development**: Automate your build, test, and deployment processes.
 - ![Terraform](https://img.icons8.com/color/48/000000/terraform.png) **Infrastructure as Code**: Write and manage infrastructure using Terraform and CloudFormation.
 - ![Ansible](https://img.icons8.com/color/48/000000/ansible.png) **Configuration Management**: Automate server configuration and management with Ansible, Chef, or Puppet.
 - ![Docker](https://img.icons8.com/color/48/000000/docker.png) **Containerization**: Containerize applications using Docker and orchestrate with Kubernetes.
